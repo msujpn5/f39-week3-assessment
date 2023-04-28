@@ -1,0 +1,136 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.checkboxes {
+	display: inline;
+}
+
+.profile-h1 {
+	text-align: center;
+}
+.profile-h2 {
+	color: blue;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#goFundMe-btn {
+	background-color: green;
+	color: white;
+}
+
+.myFav-btns {
+	background-color: yellow;
+	padding: 10px 24px;
+}
+
+.neighborhood-h1 {
+	color: gray;
+	text-align: center;
+}
+
+.neighborhood-h2 {
+	color: #FCBA04;
+	text-align: center;
+}
+
+#daruma-img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-radius: 5%;
+}
+
+#takasaki-desc {
+	text-align: center;
+}
+
+#intro {
+	background: beige;
+	border-radius: 5%
+}
+
+#restaurants {
+	background: beige;
+	padding: 20px;
+	height: auto;
+	width: auto;
+	border-radius: 5%;
+	text-align: center;
+	
+}
+
+#oasis {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-radius: 5%;
+}
+
+#yoshimura {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-radius: 5%;
+}
+
+#noboru {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	border-radius: 5%;
+}
+
+#oasis-div {
+	text-align: center;
+	padding: 10px;
+}
+
+#yoshimura-div {
+	text-align: center;
+	padding: 10px;
+}
+
+#noboru-div {
+	text-align: center;
+	padding: 10px;
+}
